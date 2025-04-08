@@ -7,7 +7,7 @@ public class Calculator {
         int difference = a - b;
         int product = a * b;
 
-        System.out.println("Sum: " + sum);
+        System.out.println("Sum = " + sum);
         System.out.println("Difference: " + difference);
         System.out.println("Subtraction result is: " + difference);
         System.out.println("Product: " + product);
